@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/flag-black.png</file>
+        <file>img/flag-blue.png</file>
+        <file>img/flag-green.png</file>
+        <file>img/flag-red.png</file>
+        <file>img/flag-yellow.png</file>
+        <file>img/help-contents.svg</file>
+        <file>img/preferences-desktop-locale.png</file>
+        <file>img/null.png</file>
+        <file>img/freehand_funny_skull.png</file>
+        <file>img/flag-red-skull.png</file>
+        <file>img/cross-skull.png</file>
+        <file>img/edit-delete.png</file>
+        <file>img/flag-red-big.png</file>
+        <file>img/timer.png</file>
+        <file>img/list-add.png</file>
+        <file>img/list-remove.png</file>
+        <file>img/games-achievements.png</file>
+        <file>img/games-highscores.png</file>
+        <file>img/view-fullscreen.png</file>
+        <file>img/view-refresh.png</file>
+        <file>img/window-close.png</file>
+        <file>img/application-exit.png</file>
+        <file>img/document-new.png</file>
+        <file>img/dialog-cancel.png</file>
+        <file>img/dialog-ok-apply.png</file>
+    </qresource>
+</RCC>
